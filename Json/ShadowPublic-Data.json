@@ -1,5 +1,7 @@
 {
-  "Version":"0.20.1", 
+  "Version":"0.20.1",
+  "APIVersion":"1.01.0",
+  "ModuleVersion":"1.00.0"
   "ModuleDownload":"https://github.com/Dev-Nitro/Shadow-Data/blob/main/Dlls/Shadow%20Module.dll", 
   "ApiDownload":"https://github.com/Dev-Nitro/Shadow-Data/blob/main/Dlls/Shadow%20API.dll"
 }
